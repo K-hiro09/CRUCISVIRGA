@@ -10,7 +10,7 @@ public class BarrierScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        count = 100;
+        count = 8;
         sp = GetComponent<SpriteRenderer>();
     }
 
