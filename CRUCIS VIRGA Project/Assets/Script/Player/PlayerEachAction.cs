@@ -20,7 +20,7 @@ public class PlayerEachAction : MonoBehaviour
     private AudioSource audioSource;
     public List<AudioClip> audioClip = new List<AudioClip>();
 
-    //左クリック離した
+    //左クリック時
     [System.NonSerialized]
     public bool shotFlg;
 
